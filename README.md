@@ -15,5 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+[![JeremyMezonCaribe's GitHub | Stats](https://stats.quine.sh/JeremyMezonCaribe/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=JeremyMezonCaribe)
 [![JeremyMezonCaribe's GitHub | Topics Over Time](https://stats.quine.sh/JeremyMezonCaribe/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=JeremyMezonCaribe)
 [![JeremyMezonCaribe's GitHub | Languages Over Time](https://stats.quine.sh/JeremyMezonCaribe/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=JeremyMezonCaribe)
